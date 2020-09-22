@@ -1,3 +1,3 @@
 # airline-twitter-statement-classification
 
-with accuracy up to 90%
+with accuracy over 90%
